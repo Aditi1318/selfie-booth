@@ -5,9 +5,9 @@ import {PanelLeft} from "lucide-react";
 
 // Replace with actual implementations or mock them if needed
 import {useIsMobile} from "@/hooks/use-mobile";
-import {cn} from "@/lib/utils";
+import {cn} from "@/lib/Utils";
 import {Button} from "@/components/ui/Button";
-import {Input} from "@/components/ui/input";
+import {Input} from "@/components/ui/Input";
 import {Separator} from "@/components/ui/Separator";
 import {Sheet, SheetContent} from "@/components/ui/Sheet";
 import {Skeleton} from "@/components/ui/Skeleton";
